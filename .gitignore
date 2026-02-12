@@ -1,0 +1,4 @@
+__pycache__/
+gpt2/
+*.pth
+loss.pdf
